@@ -1,0 +1,37 @@
+{
+  "name": "yen",
+  "version": "0.0.2",
+  "url": "http://github.com",
+  "description": "yen static site generator",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-cli": "~0.1.13"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-browserify2": "~0.1.8",
+    "browserify": "~4.1.5",
+    "browserify-shim": "~3.5.0",
+    "grunt-contrib-imagemin": "~0.7.0",
+    "grunt-line-remover": "0.0.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-shell": "~0.7.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "time-grunt": "~0.3.1",
+    "grunt-open": "~0.2.3",
+    "connect-livereload": "~0.4.0",
+    "grunt-contrib-connect": "~0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Wahid",
+  "license": ""
+}
